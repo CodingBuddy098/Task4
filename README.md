@@ -1,4 +1,4 @@
-**Overview**
+**Overview**:
 This Power BI dashboard analyzes BlinkIT’s grocery sales data to uncover trends in product performance, outlet efficiency, and customer ratings. Designed for stakeholders to make data-driven decisions about inventory, pricing, and store operations.
 
 **Key Features:**
@@ -14,4 +14,3 @@ User-Friendly Design: Slicers for on-the-fly filtering
 **Technologies Used:**
 Power BI Desktop (DAX, Power Query)
 Excel (Data Source: BlinkIT_Grocery_Data.xlsx)
-GitHub (Version Control)
